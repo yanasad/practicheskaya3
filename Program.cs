@@ -7,6 +7,7 @@
             int a;
             int b;
             int zn;
+            int c;
             Console.WriteLine("введите число а:");
             a = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine("введите число б:");
@@ -15,19 +16,20 @@
             zn = Convert.ToChar(Console.ReadLine());
             if (zn == '+')
             {
-                int c = a + b;
+                 c = a + b;
                 Console.WriteLine("итог: " + c);
             }
             if (zn == '-')
             {
-                int c = a - b;
+                c = a - b;
                 Console.WriteLine("итог: " + c);
             }
             if (zn == '*')
             {
-                int c = a * b;
+                c = a * b;
                 Console.WriteLine("итог: " + c);
             }
+          
 
         }
     }
