@@ -13,12 +13,17 @@
             b = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine("введите знак:");
             zn = Convert.ToChar(Console.ReadLine());
-            if(zn == '+')
+            if (zn == '+')
             {
-                int c = a+ b;   
-            Console.WriteLine("итог: "+c);
+                int c = a + b;
+                Console.WriteLine("итог: " + c);
             }
-            
+            if (zn == '-')
+            {
+                int c = a - b;
+                Console.WriteLine("итог: " + c);
+            }
+
         }
     }
 }
