@@ -23,6 +23,11 @@
                 int c = a - b;
                 Console.WriteLine("итог: " + c);
             }
+            if (zn == '*')
+            {
+                int c = a * b;
+                Console.WriteLine("итог: " + c);
+            }
 
         }
     }
