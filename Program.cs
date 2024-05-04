@@ -29,8 +29,13 @@
                 c = a * b;
                 Console.WriteLine("итог: " + c);
             }
-          
 
+            if (zn == '/')
+            {
+                c = a / b;
+                Console.WriteLine("итог: " + c);
+
+
+            }
         }
-    }
 }
