@@ -1,0 +1,14 @@
+C:\Users\student\Documents\pract3lit\bin\Debug\net8.0\pract3lit.exe
+C:\Users\student\Documents\pract3lit\bin\Debug\net8.0\pract3lit.deps.json
+C:\Users\student\Documents\pract3lit\bin\Debug\net8.0\pract3lit.runtimeconfig.json
+C:\Users\student\Documents\pract3lit\bin\Debug\net8.0\pract3lit.dll
+C:\Users\student\Documents\pract3lit\bin\Debug\net8.0\pract3lit.pdb
+C:\Users\student\Documents\pract3lit\obj\Debug\net8.0\pract3lit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\pract3lit\obj\Debug\net8.0\pract3lit.AssemblyInfoInputs.cache
+C:\Users\student\Documents\pract3lit\obj\Debug\net8.0\pract3lit.AssemblyInfo.cs
+C:\Users\student\Documents\pract3lit\obj\Debug\net8.0\pract3lit.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\pract3lit\obj\Debug\net8.0\pract3lit.dll
+C:\Users\student\Documents\pract3lit\obj\Debug\net8.0\refint\pract3lit.dll
+C:\Users\student\Documents\pract3lit\obj\Debug\net8.0\pract3lit.pdb
+C:\Users\student\Documents\pract3lit\obj\Debug\net8.0\pract3lit.genruntimeconfig.cache
+C:\Users\student\Documents\pract3lit\obj\Debug\net8.0\ref\pract3lit.dll
